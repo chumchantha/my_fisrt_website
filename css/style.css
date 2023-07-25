@@ -45,3 +45,11 @@
 .paragraph:hover{
     color: blue;
 }
+.image{
+    width: 20%;
+}
+.gallery{
+    gap: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
