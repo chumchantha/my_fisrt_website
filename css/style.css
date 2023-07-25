@@ -22,9 +22,26 @@
     color: #2c3e50;
 }
 .center a:hover{
-    color: black;
+    color: red;
 }
 .profile{
     width: 15%;
     border-radius: 50%;
+}
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #2c3e50;
+    font-style: italic;
+}
+.heading:hover{
+    color: red;
+}
+.paragraph{
+    width: 70%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: #2c3e50;
+}
+.paragraph:hover{
+    color: blue;
 }
