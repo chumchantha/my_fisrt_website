@@ -2,7 +2,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    flex-direction: row;
+}
+.center-column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.gap{
+    gap: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .center a{
     text-decoration: none;
@@ -12,4 +23,8 @@
 }
 .center a:hover{
     color: black;
+}
+.profile{
+    width: 15%;
+    border-radius: 50%;
 }
